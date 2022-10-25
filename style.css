@@ -32,18 +32,18 @@
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-.titulo-ingles {
+.titulo-artes {
     font-size: 130px;
     text-decoration: underline var(--verde-if-claro);
 }
 
-.subtitulo-ingles {
+.subtitulo-artes {
     font-size: 32px;
     color: var(--verde-if);
 
 }
 
-.sub-subtitulo-ingles {
+.sub-subtitulo-artes {
     font-size: 32px;
     color: var(--verde-if);
 }
@@ -252,7 +252,7 @@
 
 
 .item-flexbox-links-linking-words {
-    background-image: url(img/img-pag-principal/linking-words.png);
+    background-image: url();
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -378,17 +378,18 @@
 .item-flexbox-videos-verbo-to-be:hover {
     background-size: 120%;
     filter: saturate(0.6);
-    animation: background-links-in .2s linear;
+    animation: background-links-in .2s linear; 
 }
 
 .container-item-flexbox-videos {
-    border-radius: 23px;
+  border-radius: 23px;
     display: inline-block;
     width: 306px;
     height: 222px;
     overflow: hidden;
     margin: 20px 0;
 }
+  
 
 .container-texto-introducao {
     width: 80%;
@@ -476,7 +477,7 @@
     cursor: pointer;
 }
 
-.materia-ingles a {
+.materia-artes a {
     border-radius: 8px;
     padding: 5px 10px;
     background-color: var(--bege-if);
