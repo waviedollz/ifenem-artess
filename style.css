@@ -142,7 +142,7 @@
     text-transform: capitalize;
 }
 
-.texto-item-links-interpretacao {
+.texto-item-links-prehistoria {
     text-decoration: none;
     color: white;
     font-size: 24px;
@@ -198,8 +198,8 @@
 
 }
 
-.item-flexbox-links-interpretacao-de-texto {
-    background-image: url(img/img-pag-principal/interpretacao-de-texto.png);
+.item-flexbox-links-arte-na-pre-historia {
+    background-image: url(https://s1.static.brasilescola.uol.com.br/img/2019/01/serra-da-capivara.jpg);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -209,16 +209,14 @@
     animation: background-links-out .2s linear;
 }
 
-.item-flexbox-links-interpretacao-de-texto:hover {
+.item-flexbox-links-arte-na-pre-historia:hover {
     filter: saturate(0.6);
     animation: background-links-in .2s linear;
     background-size: 120%;
 }
 
-
-
-.item-flexbox-links-voz-passiva {
-    background-image: url(img/img-pag-principal/voz-passiva.png);
+.item-flexbox-links-elementos-básicos-da-música {
+    background-image: url(https://portalpopline.com.br/wp-content/uploads/2022/10/Taylor-Swift-3.png);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -227,14 +225,14 @@
     animation: background-links-out .2s linear;
 }
 
-.item-flexbox-links-voz-passiva:hover {
+.item-flexbox-links-elementos-básicos-da-música:hover {
     background-size: 120%;
     filter: saturate(0.6);
     animation: background-links-in .2s linear;
 }
 
-.item-flexbox-links-tempos-verbais {
-    background-image: url(img/img-pag-principal/tempos-verbais.png);
+.item-flexbox-links-renascimento {
+    background-image: url(https://i0.wp.com/arteref.com/wp-content/uploads/2019/07/Releitura-A-criac%CC%A7a%CC%83o-de-Ada%CC%83o.jpg?fit=900%2C700&ssl=1);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -243,16 +241,15 @@
     animation: background-links-out .2s linear;
 }
 
-.item-flexbox-links-tempos-verbais:hover {
+.item-flexbox-links-renascimento:hover {
     background-size: 120%;
     filter: saturate(0.6);
     animation: background-links-in .2s linear;
 
 }
 
-
-.item-flexbox-links-linking-words {
-    background-image: url(https://imgur.com/b4I8DbJ);
+.item-flexbox-links-vanguardas {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqEFS2CBx7R2c5mq1zkR5eWqoMNBQHlpg0Qw&usqp=CAU);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -261,12 +258,13 @@
     animation: background-links-out .2s linear;
 }
 
-.item-flexbox-links-linking-words:hover {
+.item-flexbox-links-vanguardas:hover {
     background-size: 120%;
     filter: saturate(0.6);
     animation: background-links-in .2s linear;
 
 }
+
 
 .item-flexbox-links-questoes-propostas {
     background-image: url(img/img-pag-principal/questoes-propostas.png);
