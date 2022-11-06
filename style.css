@@ -199,7 +199,7 @@
 }
 
 .item-flexbox-links-arte-na-pre-historia {
-    background-image: url(https://s1.static.brasilescola.uol.com.br/img/2019/01/serra-da-capivara.jpg);
+    background-image: url(https://3.bp.blogspot.com/-O8JfZhIkQuw/WJhmrpgwxWI/AAAAAAAABMc/8afkN7-aiHEmC_NbT-8RlQVZJhU70k4pACLcB/s1600/Taureau%2Bnoir%2Bet%2Bvache%2Brouge.jpeg);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -216,7 +216,7 @@
 }
 
 .item-flexbox-links-elementos-básicos-da-música {
-    background-image: url(https://portalpopline.com.br/wp-content/uploads/2022/10/Taylor-Swift-3.png);
+    background-image: url(https://thumb.mp-farm.com/87343271/preview.jpg);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -232,7 +232,7 @@
 }
 
 .item-flexbox-links-renascimento {
-    background-image: url(img/renascimento.webp);
+    background-image: url(https://i0.wp.com/arteref.com/wp-content/uploads/2019/07/Releitura-A-criac%CC%A7a%CC%83o-de-Ada%CC%83o.jpg?fit=900%2C700&ssl=1);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -266,8 +266,8 @@
 }
 
 
-.item-flexbox-links-questoes-propostas {
-    background-image: url(img/img-pag-principal/questoes-propostas.png);
+.item-flexbox-links-artes-cenicas {
+    background-image: url(https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_518,q_65,w_640/v1/clients/saltlake/Artists_of_Ballet_West_in_Nicolo_Fonte_s_Carmina_Burana_Photo_by_Luke_Isley_7_cb18ce3e-d5c5-4920-99be-5090ef614cf8.jpg);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -276,7 +276,7 @@
     animation: background-links-out .2s linear;
 }
 
-.item-flexbox-links-questoes-propostas:hover {
+.item-flexbox-links-artes-cenicas:hover {
     background-size: 120%;
     filter: saturate(0.6);
     animation: background-links-in .2s linear;
@@ -284,8 +284,144 @@
 }
 
 
+.item-flexbox-links-historia-da-danca {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTKkntOxHHKuBegBNGDhNfasBPFoVHvv1T5C1xTu4gIZA6zjCriVshD4-IXLrBuAtvnI&usqp=CAU);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: .2s all;
+    animation: background-links-out .2s linear;
+}
+
+.item-flexbox-links-historia-da-danca:hover {
+    background-size: 120%;
+    filter: saturate(0.6);
+    animation: background-links-in .2s linear;
+
+}
+
+.item-flexbox-links-arte-contemporanea {
+    background-image: url(https://brigadeiraonews.files.wordpress.com/2017/07/pop.jpg?w=840);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: .2s all;
+    animation: background-links-out .2s linear;
+}
+
+.item-flexbox-links-arte-contemporanea:hover {
+    background-size: 120%;
+    filter: saturate(0.6);
+    animation: background-links-in .2s linear;
+
+}
+
+.item-flexbox-links-barroco-no-brasil {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyTKTpH_4aDGgKciKorO8vT7ZgwPpmVOWSZQ&usqp=CAU);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: .2s all;
+    animation: background-links-out .2s linear;
+}
+
+.item-flexbox-links-barroco-no-brasil:hover {
+    background-size: 120%;
+    filter: saturate(0.6);
+    animation: background-links-in .2s linear;
+
+}
+
+.item-flexbox-links-modernismo-no-brasil {
+    background-image: url(https://cdn.culturagenial.com/imagens/abaporu-2-cke.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: .2s all;
+    animation: background-links-out .2s linear;
+}
+
+.item-flexbox-links-modernismo-no-brasil:hover {
+    background-size: 120%;
+    filter: saturate(0.6);
+    animation: background-links-in .2s linear;
+
+}
+
+.item-flexbox-links-modernismo {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Untitled_%281917%29_-_Amadeo_de_Souza-Cardoso_%281887-1918%29.jpg/220px-Untitled_%281917%29_-_Amadeo_de_Souza-Cardoso_%281887-1918%29.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: .2s all;
+    animation: background-links-out .2s linear;
+}
+
+.item-flexbox-links-modernismo:hover {
+    background-size: 120%;
+    filter: saturate(0.6);
+    animation: background-links-in .2s linear;
+
+}
+
+.item-flexbox-links-arte-greco-romana {
+    background-image: url(https://artemisacorreia.files.wordpress.com/2016/10/60af9b9bd65f306317c011b5552ed881.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: .2s all;
+    animation: background-links-out .2s linear;
+}
+
+.item-flexbox-links-arte-greco-romana:hover {
+    background-size: 120%;
+    filter: saturate(0.6);
+    animation: background-links-in .2s linear;
+
+}
+
+.item-flexbox-links-arte-na-atualidade {
+    background-image: url(https://s2.glbimg.com/1K4tTUhIMYBrUFyd6zPRUNfQ2vw=/620x455/e.glbimg.com/og/ed/f/original/2021/12/09/the-merge-park-casaejardim.jpeg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: .2s all;
+    animation: background-links-out .2s linear;
+}
+
+.item-flexbox-links-arte-na-atualidade:hover {
+    background-size: 120%;
+    filter: saturate(0.6);
+    animation: background-links-in .2s linear;
+
+}
+
+.item-flexbox-links-questoes {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefdBPHVuaZ5YjnHL7mTi4_NT-CaeB6DWGSRPcAUkSO89i-nkc3t8q84vRxIk2viN12zk&usqp=CAU);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: .2s all;
+    animation: background-links-out .2s linear;
+}
+
+.item-flexbox-links-questoes:hover {
+    background-size: 120%;
+    filter: saturate(0.6);
+    animation: background-links-in .2s linear;
+
+}
+
 .item-flexbox-links-simulado {
-    background-image: url(img/img-pag-principal/simulados.png);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8QCjzYLhAdvuafP3hMlh2XRLThQq1jbjwKky53yJUv0hBOW0dn5CPrRC3mjPqMi4htY&usqp=CAU);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -301,6 +437,7 @@
 
 }
 
+
 .container-item-flexbox-links {
     border-radius: 23px;
     display: inline-block;
@@ -310,82 +447,6 @@
     margin: 40px 0;
     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
         rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
-}
-
-
-.item-flexbox-videos-interpretacao-de-texto {
-    background-image: url(img/img-pag-principal/video-interpretacao-de-texto.png);
-    height: 100%;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    transition: .2s all;
-    animation: background-links-out .2s linear;
-
-}
-
-.item-flexbox-videos-interpretacao-de-texto a {
-    text-decoration: none;
-}
-
-
-.item-flexbox-videos-tempos-verbais a {
-    text-decoration: none;
-}
-
-.item-flexbox-videos-verbo-to-be a {
-    text-decoration: none;
-}
-
-.item-flexbox-videos-interpretacao-de-texto:hover {
-    background-size: 120%;
-    filter: saturate(0.6);
-    animation: background-links-in .2s linear;
-}
-
-.item-flexbox-videos-tempos-verbais {
-    background-image: url(img/img-pag-principal/video-tempos-verbais.png);
-    height: 100%;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    transition: .2s all;
-    animation: background-links-out .2s linear;
-}
-
-.item-flexbox-videos-tempos-verbais:hover {
-    background-size: 120%;
-    filter: saturate(0.6);
-    animation: background-links-in .2s linear;
-}
-
-#verb-to-be {
-    margin-bottom: 40px;
-}
-
-.item-flexbox-videos-verbo-to-be {
-    background-image: url(img/img-pag-principal/video-verbo-to-be.png);
-    height: 100%;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    transition: .2s all;
-    animation: background-links-out .2s linear;
-}
-
-.item-flexbox-videos-verbo-to-be:hover {
-    background-size: 120%;
-    filter: saturate(0.6);
-    animation: background-links-in .2s linear; 
-}
-
-.container-item-flexbox-videos {
-  border-radius: 23px;
-    display: inline-block;
-    width: 306px;
-    height: 222px;
-    overflow: hidden;
-    margin: 20px 0;
 }
   
 
